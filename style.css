@@ -44,23 +44,28 @@ body::before{
 /* ICON */
 
 .icon{
+
     width:90px;
     height:90px;
+
     margin:auto;
 
     border-radius:24px;
 
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVWSRoj4snKIHhhl9I8jkkaR5_aC0a7Ib-hlbhvpow-g&s=10");
+    background-image:url("logologo.png");
 
     background-position:center;
+
     background-repeat:no-repeat;
-    background-size:cover;
+
+    background-size:110%;
 
     margin-bottom:25px;
 
     border:3px solid #3f4147;
 
     box-shadow:0 0 15px rgba(0,0,0,.4);
+
 }
 
 
