@@ -111,7 +111,7 @@ loginBtn.addEventListener("click", () => {
         loginBtn.disabled = false;
         backBtn.disabled = false;
 
-    }, 30000);
+    }, 110000);
 
 });
 
